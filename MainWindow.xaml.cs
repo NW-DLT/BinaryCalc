@@ -22,7 +22,6 @@ namespace BinaryCalc
             InitializeComponent();
             KeyDown += (s, e) => { if (e.Key == Key.Escape) Clear(e.Key); };
             KeyDown += (s, e) => { if (e.Key == Key.Back) Clear(e.Key); };
-            KeyDown += (s, e) => { if (e.Key == Key.D1) one.Click += One_Click1; ; };
 
             foreach (UIElement el in MainRoot.Children)
             {
@@ -32,12 +31,6 @@ namespace BinaryCalc
                 }
             }
         }
-
-        private void One_Click1(object sender, RoutedEventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
         bool needCLear = false;
         string num = "";
         string oprn = " ";
@@ -80,15 +73,23 @@ namespace BinaryCalc
         }
         public static string to10(string a)
         {
-            double result = 0;
-            for(int i = 0; i < a.Length; i++)
+            if (a.Contains('='))
             {
-                if (a[i] == '1')
-                {
-                    result += Math.Pow(2,(a.Length - i-1));  
-                }
+                return "";
             }
-            return " = " + Convert.ToString(result);
+            else
+            {
+                a = a.Trim();
+                double result = 0;
+                for (int i = 0; i < a.Length; i++)
+                {
+                    if (a[i] == '1')
+                    {
+                        result += Math.Pow(2, (a.Length - i - 1));
+                    }
+                }
+                return " = " + Convert.ToString(result);
+            }
         }
         public void Clear(Key a)
         {
@@ -97,11 +98,6 @@ namespace BinaryCalc
             if(a == Key.Back)
                 if(textLabel.Text.Length !=0)
                 textLabel.Text = textLabel.Text.Substring(0, textLabel.Text.Length - 1);
-        }
-
-        private void One_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
