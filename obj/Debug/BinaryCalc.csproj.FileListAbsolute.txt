@@ -1,0 +1,15 @@
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\BinaryCalc.exe.config
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\BinaryCalc.exe
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\BinaryCalc.pdb
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.csprojAssemblyReference.cache
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\App.g.cs
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc_MarkupCompile.cache
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc_MarkupCompile.lref
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\MainWindow.baml
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.g.resources
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.Properties.Resources.resources
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.csproj.GenerateResource.cache
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.csproj.CoreCompileInputs.cache
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.exe
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.pdb
