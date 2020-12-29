@@ -60,9 +60,9 @@ namespace BinaryCalc
                 needCLear = true;
                 b = Convert.ToInt32(num);
                 if(oprn == "*")
-                    textLabel.Text = "= " + Convert.ToString(a & b,2);
+                    textLabel.Text = Convert.ToString(a & b,2);
                 else if(oprn == "+")
-                    textLabel.Text = "= " + Convert.ToString(a | b, 2);
+                    textLabel.Text = Convert.ToString(a | b, 2);
                 else { }
             }
             if(str == "to10")

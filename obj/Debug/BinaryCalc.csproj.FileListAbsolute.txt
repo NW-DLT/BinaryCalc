@@ -13,3 +13,10 @@ C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.
 C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.csproj.CoreCompileInputs.cache
 C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.exe
 C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.pdb
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\MaterialDesignColors.dll
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\App.baml
+C:\Users\Рабочий\source\repos\BinaryCalc\BinaryCalc\obj\Debug\BinaryCalc.csproj.CopyComplete
